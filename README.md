@@ -12,3 +12,7 @@ To run `AMIGO`, simply execute
 ```
 python3 manage.py runserver
 ```
+
+<h2>Sample DEMO</h2>
+
+A demo video can be accessed here: https://youtu.be/_SfAUL_arvI
